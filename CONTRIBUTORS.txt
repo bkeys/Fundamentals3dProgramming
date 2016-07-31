@@ -29,3 +29,8 @@ Link: https://en.wikipedia.org/wiki/File:Stellarium090.jpg
 License: Creative Commons Attribution-Share Alike 3.0 Unported RELICENSED to Against DRM 2.0
 Author: KaragouniS
 Date: 23:17, 15 August 2007
+
+LOGOS
+=====
+Against DRM 2.0 license
+http://www.freecreations.org/images/Against_DRM_2.png
