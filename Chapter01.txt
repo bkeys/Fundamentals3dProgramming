@@ -1,16 +1,32 @@
 Prepare for liftoff!	Chapter 01
 ==================================
 
-Why 3D?
-=======
+Why 3D programming?
+===================
 First we must ask ourselves why we are wanting to do 3D programming in the first place. To help answer that question let us first look at some of the interesting applications of 3D programming we have seen:
 
-//I need to get screenshots of these
 - Stellarium
-- RealFlight
+Stellarium shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.
+
+- FlightGear
+FlightGear is sophisticated and open flight simulator framework for use in research or academic environments, pilot training, as an industry engineering tool.
+
 - SuperTuxKart
+SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
+
 - OpenArena
+OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.
+
 - X Screensaver
+XScreenSaver is the standard screen saver collection shipped on most Linux and Unix systems running the X11 Window System. 
+
+EDITORS NOTE: I got these descriptions of the project from their websites copy and paste so we should add them to the bibtek
+I used
+https://www.supertuxkart.org/
+https://www.jwz.org/xscreensaver/
+http://www.openarena.ws/smfnews.php
+http://www.stellarium.org/
+https://www.flightgear.org/
 
 So you can look at these projects and see that there are many applications for 3D programming that apply in both a practical sense and for entertainment. With advanced physics libraries such as Bullet Physics[footnote needed] it is possible to simulate robotics and the automation of varoius forms of labor. The ability to simulate a real world situation, or even having the ability to simulate and define your own world is a very powerful tool for any software developer to have in their toolbox.
 

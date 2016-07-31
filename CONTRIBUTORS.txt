@@ -1,0 +1,31 @@
+GRAPHICS
+========
+OpenArena-Rocket.jpg
+Link: https://en.wikipedia.org/wiki/File:OpenArena-Rocket.jpg
+License: GNU GPL v2
+Author: VaLouille
+Date: 07:41, 30 December 2006
+
+Mig15bis-model.jpg
+Link: http://wiki.flightgear.org/File:Mig15bis-model.jpg#filelinks
+License GNU GPL v2
+Author: Thorsten
+Date: 03:21, 18 August 2011
+
+glPlanet.png
+License: Against DRM 2.0
+Author: Brigham Keys
+Date 1:40, 31 July 2016
+
+Supertuxkart-0.9-screenshot-2.jpg
+Link: https://en.wikipedia.org/wiki/File:Supertuxkart-0.9-screenshot-2.jpg
+License: Creative Commons Attribution 3.0 Unported, RELICENSED to 
+Against DRM 2.0
+Author: Food minda
+Date: 02:13, 12 August 2015
+
+Stellarium090.jpg
+Link: https://en.wikipedia.org/wiki/File:Stellarium090.jpg
+License: Creative Commons Attribution-Share Alike 3.0 Unported RELICENSED to Against DRM 2.0
+Author: KaragouniS
+Date: 23:17, 15 August 2007
