@@ -1,0 +1,13 @@
+About the author
+================
+Brigham Keys, Esq. (also known as bkeys) is a Software Maintainer for GNU GLeem, founder of the DMUX project, a free software advocate, a member of Socialist Party USA with a passion for all things celestial. He has taught multiple seminars about OpenGL at Brigham Young University - Idaho, where his passion for everything 3D began to get real traction. You can email him at bkeys@gnu.org and you may catch him in the Irrlicht community where he is very active as well.
+
+- Thank you James N. Helfrich, for inspiring me.
+
+Preamble
+========
+Freedom for the users was taken as a top priority in the creation of this document, which is why we chose to put it under the Against DRM 2.0 license and a copy of the license should of been included with your copy of the book, if not please visit (LICENSE LINK HERE) in your web browser. 3D mathematics is a very complex subject as is programming these constructs, however it can be a lot of fun. With the rise of virtual reality 3D programming is becoming an increasingly popular medium for application development. As we move forward into understanding the many aspects of 3D simulation this books keeps freedom in mind from this publication to the libraries mentioned in the book. Due to the educational nature of this publication the book itself is under the Against DRM 2.0 license while the code written is under the GNU General Public license version 3 or later.
+
+The Scope of this document
+==========================
+This document is targeted towards people who already know basic programming constructs and this document implies the reader has this understanding. This book uses C++17 and uses Irrlicht, cAudio, and Bullet Physics which are all under free software licenses. An understanding of C++ would be very beneficial in reading this book however any programmer should be able to get something out of it. A book such as this might serve well in inspiring developers less experienced.
