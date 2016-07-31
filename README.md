@@ -8,3 +8,4 @@ Thank you . . .
 - Bullet physics community
 - cAudio, for creating an amazing audio engine
 - The GNU project, for inspiring us
+- NASA for providing assets found at https://github.com/nasa/NASA-3D-Resources
