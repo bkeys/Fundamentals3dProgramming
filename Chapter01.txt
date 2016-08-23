@@ -1,8 +1,14 @@
 Prepare for liftoff!	Chapter 01
 ==================================
 
+Chapter Objectives:
+- Describe some purposes to 3D programming, and pragmatic reasons to learn it.
+- Demonstrate successful 3D simulations to enumerate what is possible with free software.
+- Identify some common components that are needed to build an immersive 3D scene
+
 Why 3D programming?
 ===================
+
 First we must ask ourselves why we are wanting to do 3D programming in the first place. To help answer that question let us first look at some of the interesting applications of 3D programming we have seen:
 
 - Stellarium
@@ -28,7 +34,23 @@ http://www.openarena.ws/smfnews.php
 http://www.stellarium.org/
 https://www.flightgear.org/
 
-So you can look at these projects and see that there are many applications for 3D programming that apply in both a practical sense and for entertainment. With advanced physics libraries such as Bullet Physics[footnote needed] it is possible to simulate robotics and the automation of varoius forms of labor. The ability to simulate a real world situation, or even having the ability to simulate and define your own world is a very powerful tool for any software developer to have in their toolbox.
+So we can look at these projects and see that there are many applications for 3D programming that apply in both a practical sense and for entertainment. With advanced physics libraries such as Bullet Physics[footnote needed] it is possible to simulate robotics and the automation of varoius forms of labor. The ability to simulate a real world situation, or even having the ability to simulate and define a world to have specified attributes is a very powerful tool for any software developer to have in their toolbox. It is also an amazing form of self expression.
 
-Introduction to 3D Scenes
-=========================
+Softwares we are going to use in this book:
+===========================================
+
+To create an immersive 3D scene, multiple tools are needed. Included with this book should of been a copy of each software used. The ones that will be taught in this publication are as follows:
+
+Irrlicht: 3D graphics engine that is very flexible, easy to set up and use. Irrlicht has a very friendly community and is widely used in the free software world.
+
+Bullet Physics: 3D physics engine, developed currently by Google and Erwin Coumans. Bullet has many advanced features such as a built in vehicle module, and a vertex reduction utility.
+
+cAudio: 3D audio suite, it can decode .wav, .ogg and other file formats. It supports 2D and 3D audio, it is very well documented and has very easy to follow interfaces.
+
+Sneak Peek:
+===========
+Each section of the book covers how to use these softwares and each section relates to a final project that is built throughout the book.
+
+==Screenshot of Moon driver==
+
+You will be building a 3D simulation of a 3D moon rover that the user can drive around and run into and over various things on the surface.
